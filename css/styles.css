@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: orange;
+    padding: 10px;
+}
+
+.listContainer{
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.listItem {
+    padding: 5px;
+}
+
+.recipeContent {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.backLink {
+    background-color: blanchedalmond;
+    width: auto;
+}
+
+.foodImage {
+    background-color:burlywood;
+}
